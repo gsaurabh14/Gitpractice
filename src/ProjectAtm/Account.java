@@ -65,6 +65,8 @@ public class Account {
     	return savingBalance;
     }
     System.out.println("Balance ");
+    System.out.println("Balance3 ");
+    System.out.println("Balance2 ");
     public void getCheckingWithdrawInput()
     {
     	
