@@ -64,9 +64,10 @@ public class Account {
     	savingBalance = (savingBalance+amount);
     	return savingBalance;
     }
-    
+    System.out.println("Balance ");
     public void getCheckingWithdrawInput()
     {
+    	
     	System.out.println("Checking Account Balance " + moneyFormat.format(checkingBalance));
     	System.out.println("Amount you want to withdraw from checking account ");
     	
