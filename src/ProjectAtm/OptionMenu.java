@@ -22,7 +22,7 @@ public class OptionMenu extends Account {
 				System.out.println("Welcome to the atm");
 				System.out.println("Enter the customer number");
 				setCustomerNumber(menuInput.nextInt());
-				
+				System.out.println("American");	
 				System.out.println("Enter the pin number");
 				setCustomerNumber(menuInput.nextInt());
 			}catch(Exception e){
