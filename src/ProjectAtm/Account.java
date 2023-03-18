@@ -72,7 +72,8 @@ public class Account {
     	
     	System.out.println("Checking Account Balance " + moneyFormat.format(checkingBalance));
     	System.out.println("Amount you want to withdraw from checking account ");
-    	
+    	  System.out.println("Balance3 ");
+    	    System.out.println("Balance2 ");
     	double amount = input.nextDouble();
     	
     	if((checkingBalance - amount) >= 0){

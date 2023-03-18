@@ -9,6 +9,10 @@ public class Atm extends OptionMenu{
 		
 		optionmenu.getlogin();
 gfjjksgjkshkj;
+
+jhgjhgkj
+
+ghghgj
 	}
 
 }
